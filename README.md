@@ -2,17 +2,17 @@
 
 Hi there 👋
 
-I'm 钟典, a.k.a Desmond, known by friends I met when traveling the world during working holidays; a.k.a 典少, within Alibaba system.
+I'm **钟典**, a.k.a **Desmond**, known by friends I met when traveling the world during working holidays; a.k.a **典少**, within Alibaba system.
 
 I found my interests on making cool staff by programming during primary school. From RIA, to iOS, then to modern web, the form changes while the purpose remains.
 
-Cities I've lived in: Beijing, Sydney, Auckland and Chongqing.
+**Cities I've lived in**: Beijing, Sydney, Auckland and Chongqing.
 
-Languages I speak: Mandarin, English, and looking forward to learning Spanish and Janpanese.
+**Languages I speak**: Mandarin, English, and looking forward to learning Spanish and Janpanese.
 
-Technologies I touched: ActionScript, Flash, C, C#❤️, HTML, css, JavaScript, Objective-C, Swift💪, TypeScript💪, React, ReactiveX❤️, SwiftUI
+**Technologies I touched**: ActionScript, Flash, C, C#❤️, HTML, css, JavaScript, Objective-C, Swift💪, TypeScript💪, React, ReactiveX❤️, SwiftUI
 
-Skills learnt by hobby: photography & Photoshop, vlog & Premiere Pro, drones...
+**Skills learnt by hobby**: photography & Photoshop, vlog & Premiere Pro, drones...
 
 Love to meet creative people, especially the ones in my city.
 <!--
