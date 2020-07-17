@@ -1,4 +1,4 @@
-# [![Desmond banner](https://raw.githubusercontent.com/limitMe/limitme/master/images/banner.jpg)](https:/www.github.com/limitMe)
+# [![Desmond banner](https://raw.githubusercontent.com/limitMe/limitme/master/images/banner.jpg)](/limitMe)
 
 Hi there 👋
 
@@ -10,7 +10,7 @@ I found my interests on making cool staff by programming during primary school. 
 
 **Languages I speak**: Mandarin, English, and looking forward to learning Spanish and Janpanese.
 
-**Technologies I touched**: ActionScript, Flash, C, C#❤️, HTML, css, JavaScript, Objective-C, Swift💪, TypeScript💪, React, ReactiveX❤️, SwiftUI
+**Technologies I touched**: ActionScript, Flash, C, C#❤️, HTML, css, JavaScript, Objective-C, Swift💪, TypeScript💪, React, ReactiveX❤️, SwiftUI, docker❤️, RaspberryPi, SQL, mongoDB
 
 **Skills learnt by hobby**: photography & Photoshop, vlog & Premiere Pro, drones...
 
