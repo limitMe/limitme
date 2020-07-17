@@ -1,4 +1,4 @@
-# [![Desmond banner](https://raw.githubusercontent.com/limitMe/limitMe/main/images/banner.jpg)](https:/www.github.com/limitMe)
+# [![Desmond banner](https://raw.githubusercontent.com/limitMe/limitme/master/images/banner.jpg)](https:/www.github.com/limitMe)
 
 Hi there 👋
 
